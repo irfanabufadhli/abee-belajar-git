@@ -1,5 +1,5 @@
-Pengenalan Git dr WPU
-Bekerja dengan Github
+Pengenalan Git dr WPU - chek
+Bekerja dengan Github - on progress
 Github: Branch
 Github: Fork
 Bekerja dengan Git
