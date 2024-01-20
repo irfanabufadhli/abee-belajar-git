@@ -1,0 +1,3 @@
+file ini untuk praktek forking di github 
+pada akun abufadhli pake repo akun irfanabufadhli
+di directori abee-belajar-git
